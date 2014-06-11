@@ -5,7 +5,7 @@ A PHP Socket Interface Library for the game Club Penguin
 
 ```
 // +--------------------------------------------------------------------------
-// | PHickle v0.41
+// | PHCL v0.41
 // | ========================================
 // | by oPenguin, 2014
 // | https://github.com/oPenguin
