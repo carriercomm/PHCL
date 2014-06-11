@@ -7,8 +7,8 @@ A PHP Socket Interface Library for the game Club Penguin
 // +--------------------------------------------------------------------------
 // | PHickle v0.41
 // | ========================================
-// | by Glenn McGuire, 2013
-// | https://github.com/glen-mac
+// | by oPenguin, 2014
+// | https://github.com/oPenguin
 // | ========================================
 // +--------------------------------------------------------------------------
 // | THIS LIBRARY IS FREE SOFTWARE
@@ -79,7 +79,7 @@ $Test->sendJoke($ID);
 
 ## Support ##
 
-For help with this library, its use and its development please contact me at glennmcguire9@gmail.com
+For help with this library, its use and its development please contact me at openguin@gmail.com
 
 ## Copyright and License ##
 
@@ -87,7 +87,7 @@ This is free software, licensed under the GNU Lesser General Public License vers
 
 ## Thanks ##
 
-Thanks to ClubPenguin for implementing such a simple, and easy to emulate packet interaction system between client and server.
+Thanks to Club Penguin for implementing such a simple, and easy to emulate packet interaction system between client and server.
 
 
 
